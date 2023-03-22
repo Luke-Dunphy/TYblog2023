@@ -4,18 +4,15 @@ html,body {
   background: #ffffff;
 }
 .navbar.is-white {
-  background: #c0d4e0;
+  background: #dae3e9;
 }
 .navbar-brand .brand-text {
   font-size: 1.11rem;
   font-weight: bold;
 }
 .hero-body
-{background-image: url(https://media.gq.com/photos/57672ef65db2e8cb18c9e9a8/64:25/w_2943,h_1149,c_limit/homer-simpson-driving.jpg);
-background-position: center;
-background-size: cover;
+{background-image: url(https://www.onlogic.com/company/io-hub/wp-content/uploads/2022/01/Red-Hat-Blog.jpg)
 background-repeat: no-repeat;
-font-weight: bold;
 font-size: 34px;
 width: auto;
 height: 500px;
